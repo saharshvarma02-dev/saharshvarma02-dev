@@ -1,3 +1,9 @@
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <source media="(prefers-color-scheme: light)" srcset="art/header-light.png">
+   <img alt="Logo for Saharsh Varma" src="art/header-light.png">
+</picture>
+
 ## Hi there 👋
 
 - 🎓 Computer Science student at Guru Gobind Singh Indraprastha University.
